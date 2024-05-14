@@ -1,10 +1,27 @@
-Study,D1,D2,D3,D4,D5,Overall
-Study 1,Low,Low,Low,Low,Low,Low
-Study 2,Some concerns,Low,Low,Low,Low,Some concerns
-Study 3,No information,Low,Some concerns,Low,Low,Some concerns
-Study 4,Low,Low,High,Low,Some concerns,High
-Study 5,High,High,Low,Low,Some concerns,High
-Study 6,Low,High,Some concerns,Low,Low,High
-Study 7,Low,Some concerns,Some concerns,High,Low,High
-Study 8,Low,Some concerns,Low,Low,Low,Some concerns
-Study 9,Low,Low,High,Low,Low,High
+Study 1	Low	Low	Low	Low	Low	Low	Low	Unclear	Low	Low	Low
+Study 2	Low	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low
+Study 3	Low	Unclear	Low	Low	Low	Low	Unclear	Low	Low	Low	Low
+Study 4	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 5	Low	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low
+Study 6	Low	Low	Low	Unclear	Low	Low	Low	Low	Low	Low	Low
+Study 7	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 8	Low	Low	Low	Low	Low	Low	Unclear	Low	Low	Low	Low
+Study 9	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 10	Low	Unclear	Low	Unclear	Low	Low	Low	Low	Low	Low	Low
+Study 11	Low	Unclear	Low	Low	Low	Low	Low	Unclear	Low	Low	Low
+Study 12	Low	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low
+Study 13	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 14	Low	Low	Low	Unclear	Low	Low	Low	Unclear	Low	Low	Low
+Study 15	Low	Unclear	Low	Low	Low	Low	Low	Low	Unclear	Low	Low
+Study 16	Low	Unclear	Low	Unclear	Low	Low	Unclear	Low	Low	Low	Low
+Study 17	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 18	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 19	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 20	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 21	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 22	Low	Unclear	Low	Unclear	Low	Low	Low	Low	Low	Low	Low
+Study 23	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 24	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 25	Low	Unclear	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 26	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low	Low
+Study 27	Low	Low	Unclear	Low	Low	Low	Unclear	Low	Low	Low	Low
